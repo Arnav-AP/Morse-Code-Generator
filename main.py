@@ -39,7 +39,6 @@ $$$$$$$$/ $$/   $$/  $$$$$$$/  $$$$$$/   $$$$$$$/  $$$$$$$/       $$/      $$/  
 print(welcome)
 print(
     "Legend:\n"
-    "|  : separates letters\n"
     "#  : separates words\n"
     "?  : unsupported character\n"
 )

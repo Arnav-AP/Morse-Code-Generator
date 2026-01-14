@@ -1,32 +1,15 @@
 # Morse Code Generator
 
-A Python application that converts text to Morse code and vice versa.
+A Python program that converts text into Morse code.
 
 ## Features
-
-- Convert text to Morse code
-- Convert Morse code back to text
-- Support for letters, numbers, and common punctuation
+- Converts text to Morse code
+- Supports letters (A–Z)
+- Uses spaces to separate letters and `#` to separate words
+- Uses `?` for unsupported charecters
 - Simple command-line interface
 
-## Installation
-
+## How to Run
 ```bash
-git clone <repository-url>
-cd "Morse Code Generator"
-```
-
-## Usage
-
-```python
-python morse_code_generator.py
-```
-
-Follow the on-screen prompts to:
-1. Enter text to convert to Morse code
-2. Enter Morse code to convert to text
-
-## Morse Code Reference
-
-- Letters: A-Z
-- Numbers: 0-9
+python main.py
+ -m
